@@ -1,0 +1,67 @@
+{
+	"basicdetails":{
+		"image":"anusha.jpg",
+		"name":"R.anu",
+		"email":"rachagorlaanu",
+		"phoneno":"9542678412",
+		"address":"muthamvaripalem(vil)"
+	},
+	"education":[
+		{
+			"course":"B.tech",
+			"college":"vignana nirula",
+			"percentage":"70%"
+		},
+		{
+			"course":"Intermediate(M.P.C)",
+			"college":"sri gayathri",
+			"percentage":"80%"
+		},
+		
+		{
+			"course":"10th class",
+			"college":"sri prathibha",
+			"percentage":"80%"
+		}
+	],
+
+	"skill":[
+		{
+			"name":"operating system",
+			"value":"linux,windows MAC"
+
+		},
+		{
+			"name":"programming language",
+			"value":"C,C++Java,Python"
+		}
+	],
+	"carrier":{
+		"ca":"place in campusplasement"
+		
+	},
+	"Achevements":[
+		"i got  first prize in chess.",
+		"i got  first prize in teching.",
+		"i got  first prize in power point.",
+		"i got  first prize in dance computation."
+	],
+	"Description":{
+		"des":"all mention above are true"
+		}	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
